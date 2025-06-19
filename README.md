@@ -33,7 +33,7 @@ Setiap praktikum di atas didokumentasikan lengkap dengan **kode, penjelasan, ser
 | ------------------ | --------------------------- |
 | **Nama**           | ARJUNA SURYA ED             |
 | **NIM**            | 312310459                   |
-| **Kelas**          | TI.23.A.5                   |
+| **Kelas**          | TI.23.A.2                   |
 | **Mata Kuliah**    | Pemrograman Web 2           |
 | **Dosen Pengampu** | Agung Nugroho S.kom., M.kom |
 
